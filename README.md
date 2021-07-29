@@ -1,4 +1,4 @@
 # opaque-predicates
 supported langs:
-RU:+
-EN:(*comming soon*)
+RU:yes\n
+EN:(*comming soon*)\n
